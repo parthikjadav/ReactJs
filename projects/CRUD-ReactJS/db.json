@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "fname": "7",
+      "lname": "76",
+      "id": 1
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "id": 2
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "id": 3
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
